@@ -1,0 +1,27 @@
+{
+  "name": "desafio-01",
+  "version": "0.0.1",
+  "description": "Desafio imagine scholl",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ga-amaral/desafio-01.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Gabriel Amaral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ga-amaral/desafio-01/issues"
+  },
+  "homepage": "https://github.com/ga-amaral/desafio-01#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
