@@ -1,0 +1,92 @@
+body {
+    position: relative;
+    width: 1280px;
+    height: 832px;
+    background: linear-gradient(247.01deg, #71DABB 0.5%, #0038FF 99.53%);
+}
+
+/*Center*/
+.main-block {
+    position: absolute;
+    width: 1115px;
+    height: 674px;
+    left: 80px;
+    top: 79px;
+
+    background: #D9D9D9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+/*icon config*/
+.image {
+    position: absolute;
+    margin: 164px 649px 141px 97px;
+}
+
+.content {
+    margin: 38px 45px 170px 557px;
+}
+
+#name-login {
+    margin: 60px 221.72px 0 211.2px;
+}
+
+#image-login {
+    margin: 4px 228.02px 0 207px;
+}
+
+form {
+    margin: 40px 2.75px 0 1px;
+}
+
+input {
+    width: 453px;
+    height: 77px;
+    margin-bottom: 34px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border: 1px;
+
+    padding: 0 0 0 56.25px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 23px;
+    line-height: 28px;
+    color: #bcb7b7;
+
+}
+
+button {
+    width: 509.25px;
+    height: 77px;
+    margin-top: 28px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 23px;
+    line-height: 28px;
+    color: white;
+    background: black;
+    border-radius: 10px;
+}
+
+#cadastro {
+    margin-top: 33px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+#social {
+    margin-top: 15px;
+    margin-left: 123px;
+}
+
+a {
+    text-decoration: none;
+}
