@@ -54,8 +54,7 @@ input {
     font-weight: 900;
     font-size: 23px;
     line-height: 28px;
-    color: #bcb7b7;
-
+    color: #CCCCCC;
 }
 
 button {
@@ -89,4 +88,20 @@ button {
 
 a {
     text-decoration: none;
+}
+
+.texto {
+    width: 320px;
+    height: 66px;
+    margin: 60px 0 0 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+#back-button{
+    position: absolute;
+    margin: 56px 0 0 31px;
 }
